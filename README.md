@@ -1,2 +1,2 @@
-# compra-con-descuento
+# descuento-por-compra
 Created with CodeSandbox
